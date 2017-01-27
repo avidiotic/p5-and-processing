@@ -3,8 +3,11 @@ var y;
 
 function setup() {
 	createCanvas(400,400);
-	x = 200;
-	y = 200;
+	x=200;
+	y=200;
+	//createCanvas(1680,1050);
+	//x = 1680/2;
+	//y = 1050/2;
 	background(51);
 }
 
